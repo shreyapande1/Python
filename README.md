@@ -11,3 +11,6 @@ One Lunar Distance (LD) is approximately 384,000 kilometers (see glossary for de
 The aim for this was to create an application in Python to access the database.
 It is done using “PyMySQL” interface and then using the “mysql-connector-python” drivers
 
+# Readme for Data Cleaning File
+
+The aim is to clean the provided xlsx file of FBI Uniform Crime Reporting Analysis dataset
